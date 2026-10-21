@@ -3,3 +3,7 @@ dist/
 .DS_Store
 *.log
 qa/_sheet.html
+promo/regexray_demo.mp4
+promo/regexray_demo_vertical.mp4
+promo/_demo_tmp/
+qa/live/
