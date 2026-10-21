@@ -1,0 +1,118 @@
+{
+  "ok": 22,
+  "bad": 0,
+  "total": 22,
+  "results": [
+    {
+      "ok": true,
+      "name": "loads app",
+      "detail": ""
+    },
+    {
+      "ok": true,
+      "name": "screenshot default (email)",
+      "detail": ""
+    },
+    {
+      "ok": true,
+      "name": "example gallery rendered",
+      "detail": "8 buttons"
+    },
+    {
+      "ok": true,
+      "name": "screenshots of all examples",
+      "detail": ""
+    },
+    {
+      "ok": true,
+      "name": "invalid regex shows error",
+      "detail": ""
+    },
+    {
+      "ok": true,
+      "name": "screenshot empty pattern",
+      "detail": ""
+    },
+    {
+      "ok": true,
+      "name": "case email",
+      "detail": "1 matches"
+    },
+    {
+      "ok": true,
+      "name": "case url",
+      "detail": "2 matches"
+    },
+    {
+      "ok": true,
+      "name": "case date",
+      "detail": "1 matches"
+    },
+    {
+      "ok": true,
+      "name": "case ipv4",
+      "detail": "1 matches"
+    },
+    {
+      "ok": true,
+      "name": "case named",
+      "detail": "1 matches"
+    },
+    {
+      "ok": true,
+      "name": "case optional-alt",
+      "detail": "4 matches"
+    },
+    {
+      "ok": true,
+      "name": "catastrophic backtracking guarded",
+      "detail": "Match timed out (catastrophic backtracking?)"
+    },
+    {
+      "ok": true,
+      "name": "permalink written to hash",
+      "detail": ""
+    },
+    {
+      "ok": true,
+      "name": "permalink round-trip",
+      "detail": ""
+    },
+    {
+      "ok": true,
+      "name": "Markdown export",
+      "detail": "208 chars"
+    },
+    {
+      "ok": true,
+      "name": "Copy link",
+      "detail": "http://127.0.0.1:4177/#r=eyJwIjoiZm9vKGJhcik_IiwiZiI6ImdpIiwidCI6IkZvbyBCQVIgZm9…"
+    },
+    {
+      "ok": true,
+      "name": "PNG export",
+      "detail": "2952 bytes"
+    },
+    {
+      "ok": true,
+      "name": "screenshot mobile",
+      "detail": ""
+    },
+    {
+      "ok": true,
+      "name": "no console errors",
+      "detail": ""
+    },
+    {
+      "ok": true,
+      "name": "no outside network calls",
+      "detail": ""
+    },
+    {
+      "ok": true,
+      "name": "contact sheet",
+      "detail": "/workspace/apps_studio/regexray/qa/contact_sheet.png"
+    }
+  ],
+  "shotsDir": "/workspace/apps_studio/regexray/qa/shots"
+}
